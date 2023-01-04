@@ -1,0 +1,7 @@
+6
+22520880,Nguyen Viet Anh Minh,18,10,10,10
+369258147,Lau Sam Tuong,20,100,100,100
+147258369,Lau Lam Tuong,20,0,0,0
+123456,Ha Phan Thien Phu,20,4,5,6
+98765,Le Anh Thi,20,3,4,5
+235353,Nguyen Thanh Tung,20,1,2,3
